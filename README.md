@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **m.asad.s94@gmail.com**
 
-- ⚡ Fun fact **Passion, dedication and alots of tea**. 
+- ⚡ Fun fact **Passion, dedication and alots of tea**
 
-- :mortar_board: I am BS(Computer Sciences) and MS(Software Project Management) from National University-FAST. Moreover, I have nanodegrees in [Python](https://confirm.udacity.com/QAGG9JHP), [React](https://confirm.udacity.com/ZG6E2MRF) and [AWS Cloud](https://graduation.udacity.com/confirm/WCP5PGCH) from Udacity.
+- :mortar_board: I am **BS(Computer Sciences)** and **MS(Software Project Management)** from **National University-FAST**. Moreover, I have nanodegrees in [Python](https://confirm.udacity.com/QAGG9JHP), [React](https://confirm.udacity.com/ZG6E2MRF) and [AWS Cloud](https://graduation.udacity.com/confirm/WCP5PGCH) from **Udacity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
