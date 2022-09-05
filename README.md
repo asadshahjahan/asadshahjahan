@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadshahjahan&label=Profile%20views&color=0e75b6&style=flat" alt="asadshahjahan" /> </p>
 
-- 🔭 I’m currently working on [Django](https://github.com/django)
+- 🔭 I’m currently working on [Django](https://github.com/django/django), [React](https://github.com/facebook/react), [Django Rest Framework](https://github.com/encode/django-rest-framework) and [Airflow](https://github.com/apache/airflow)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/) and [React Native](https://reactnative.dev/)
 
 - 👯 I’m looking to collaborate on [Airflow](https://github.com/apache/airflow)
 
